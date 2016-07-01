@@ -126,15 +126,6 @@
 -->  
 <center>
 <p><b><?php echo $_GET['name']; ?></b></p> 
- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Digital Dialogue -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-9003385815295706"
-     data-ad-slot="7792528073"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>  
+  
    </body>
 </html>
