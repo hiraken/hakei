@@ -136,29 +136,10 @@ $err = 'Error Occurred';
         text-decoration: underline;
       }
     </style>
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-15214982-4']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 </head>
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1&appId=438389422889474";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+
 
 <div align = "center">
 <a href="index.php"><img src = "./img/hakei.png" alt = "Hakei" width="350" height="100" border="0"></a><br /><img src = "./img/wave2.png" alt = "Hakei" width="350" height="100" border="0"><br />
@@ -184,41 +165,6 @@ ENCTYPE="MULTIPART/FORM-DATA">
 
 </div>
 
-<div align = "center">
-<script type="text/javascript"><!--;
-google_ad_client = "ca-pub-1912245730607246";
-/* #1 */
-google_ad_slot = "6225492884";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-<iframe src="http://rcm.amazon.com/e/cm?t=takeapict-20&o=1&p=48&l=ur1&category=amazonvideoondemand&banner=0NV7S8PAP1Y8DYFGJC82&f=ifr" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-</div>
-<div align = "center">
-<a href="http://click.linksynergy.com/fs-bin/click?id=j5E941Lb4KU&offerid=7097.10000071&subid=0&type=4"><IMG border="0"   alt="LinkShare_468x60v1" src="http://ad.linksynergy.com/fs-bin/show?id=j5E941Lb4KU&bids=7097.10000071&subid=0&type=4&gridnum=1"></a>
-</div>
-<div align = "center">
-<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=takeapict-20&o=1">
-</script>
-<noscript>
-    <img src="http://www.assoc-amazon.com/s/noscript?tag=takeapict-20" alt="" />
-</noscript>
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-1912245730607246";
-/* #1 */
-google_ad_slot = "6225492884";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
 </div>
 
 <hr>
