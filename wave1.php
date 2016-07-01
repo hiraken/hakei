@@ -131,19 +131,7 @@ $err = 'Error Occurred';
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <LINK REL="SHORTCUT ICON" HREF="favicon.ico"> 
 <title>Hakei Player (MP3 Player with Sound Wave)</title>
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-15214982-7']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script></title>
 
 <link href="css/style.css" type="text/css" rel="stylesheet">
 <link href="css/custom.css" type="text/css" rel="stylesheet">
@@ -151,14 +139,6 @@ $err = 'Error Occurred';
 
 </head>
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1&appId=438389422889474";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
 <div align = "center">
 <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
@@ -221,30 +201,7 @@ ENCTYPE="MULTIPART/FORM-DATA">
 
 </div>
 
-<div align = "center">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Digital Dialogue -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-9003385815295706"
-     data-ad-slot="7792528073"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<iframe src="http://rcm.amazon.com/e/cm?t=takeapict-20&o=1&p=48&l=ur1&category=amazonvideoondemand&banner=0NV7S8PAP1Y8DYFGJC82&f=ifr" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-</div>
-<div align = "center">
-<a href="http://click.linksynergy.com/fs-bin/click?id=j5E941Lb4KU&offerid=7097.10000071&subid=0&type=4"><IMG border="0"   alt="LinkShare_468x60v1" src="http://ad.linksynergy.com/fs-bin/show?id=j5E941Lb4KU&bids=7097.10000071&subid=0&type=4&gridnum=1"></a>
-</div>
-<div align = "center">
-<script type="text/javascript" src="http://www.assoc-amazon.com/s/link-enhancer?tag=takeapict-20&o=1">
-</script>
-<noscript>
-    <img src="http://www.assoc-amazon.com/s/noscript?tag=takeapict-20" alt="" />
-</noscript>
 
-</div>
 
 <hr>
                 
